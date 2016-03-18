@@ -42,7 +42,6 @@ class NoRedirection(urllib2.HTTPErrorProcessor):
    https_response = http_response
 
 ASBase = 'aHR0cDovL3Bhc3RlYmluLmNvbS9yYXcvTU1LYkpIRXQ='
-ASBase1 = 'aHR0cDovL3Bhc3RlYmluLmNvbS9yYXcvTER4RFdiZzI='
 
 sourceSitebvls = 'http://bvls2016.sc'      
 
@@ -260,14 +259,52 @@ def findStream(page) :
 				
 def ASIndex():
     addon_log("ASIndex")
-    getData(base64.b64decode(ASBase1),'') 
+    addDir('News','News',46,icon ,  FANART,'','','','')
+    addDir('Privacy Policy','Privacy Policy',45,icon ,  FANART,'','','','')
     getData(base64.b64decode(ASBase),'') 
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
+def News():
+	text = ''
+	twit = 'http://pastebin.com/raw/bGfbBLq3'
+	req = urllib2.Request(twit)
+	req.add_header('User-Agent', 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3')
+	response = urllib2.urlopen(req)
+	link=response.read()
+	response.close()
+	match=re.compile("<title>(.+?)</title><pubDate>(.+?)</pubDate>",re.DOTALL).findall(link)
+	for status, dte in match:
+	    try:
+			    status = status.decode('ascii', 'ignore')
+	    except:
+			    status = status.decode('utf-8','ignore')
+	    dte = dte[:-15]
+	    status = status.replace('&amp;','')
+	    dte = '[COLOR orange][B]'+dte+'[/B][/COLOR]'
+	    text = text+dte+'\n'+status+'\n'+'\n'
+	showText('[COLOR orange][B]Arabic TV[/B][/COLOR]', text)
 
 
 
-
+def Privacy_Policy():
+	text = ''
+	twit = 'http://pastebin.com/raw/whuAC4iP'
+	req = urllib2.Request(twit)
+	req.add_header('User-Agent', 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3')
+	response = urllib2.urlopen(req)
+	link=response.read()
+	response.close()
+	match=re.compile("<title>(.+?)</title><pubDate>(.+?)</pubDate>",re.DOTALL).findall(link)
+	for status, dte in match:
+	    try:
+			    status = status.decode('ascii', 'ignore')
+	    except:
+			    status = status.decode('utf-8','ignore')
+	    dte = dte[:-15]
+	    status = status.replace('&amp;','')
+	    dte = '[COLOR orange][B]'+dte+'[/B][/COLOR]'
+	    text = text+dte+'\n'+status+'\n'+'\n'
+	showText('[COLOR orange][B]Privacy Policy[/B][/COLOR]', text)
 
 def showText(heading, text):
     id = 10147
@@ -2817,7 +2854,12 @@ elif mode==40:
     SetViewThumbnail()
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
-	
+elif mode==45:
+    Privacy_Policy()
+
+elif mode==46:
+    News()
+		
 elif mode==47 :
     AddSports365Channels(url)
     
