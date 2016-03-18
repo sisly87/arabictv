@@ -1,0 +1,515 @@
+<item>
+<title>Test1</title>
+<link>rtmp://41.248.240.214:80/vod<playpath>mp4:infos/2016/03/16/2.mp4</link>
+<thumbnail>http://www.arabe-media.com/tv/img132.jpg</thumbnail>
+</item>
+
+<item>
+<title>Art Aflam</title>
+<link>rtmp://web3.iptv-planet.com:1937/live2 playpath=artaflam1?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=artaflam1 live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=artaflam1&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/artaflam1.html</referer>
+</regex>
+<thumbnail>http://www.arabe-media.com/tv/img132.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Cario Drama</title>
+<link>rtmp://web3.iptv-planet.com:1937/live2 playpath=cd?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/cairodrama.html</referer>
+</regex>
+<thumbnail>http://www.livetv.tn/images/icons/64.gif</thumbnail>
+</item>
+
+
+<item>
+<title>MBC1</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=Hi_mbc1?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/mbc1.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/mbc_1.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC2</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=Hi_mbc2?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/mbc2.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/mbc_2.jpg</thumbnail>
+</item>
+
+<item>
+<title>MBC3</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=Hi_mbc3?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/mbc3.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/mbc_3.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>MBC4</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=Hi_mbc4?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/mbc3.htm</referer>
+</regex>
+<thumbnailhttp://iptv-planet.com/images/mbc_4.jpg</thumbnail>
+</item>
+<item>
+<title>MBC MASR</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=mbcmasr?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/mbcmasr.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/mbcmasr.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>MBC MAX</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=Hi_mbcmax?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/mbcmax.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/mbc_max.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>MBC Action</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=Hi_mbcaction?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/mbcaction.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/mbc_action.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>MBC Drama</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=Hi_mbcdrama?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/mbdrama.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/mbc_action.jpg</thumbnail>
+</item>
+<item>
+
+
+<item>
+<title>Hannibal</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=h?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/mbdrama.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/mbc_action.jpg</thumbnail>
+</item>
+<item>
+
+
+<item>
+<title>Tunesia National 1</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=t1?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com//tunisia_nationale1.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/tunisia_national_1.jpg</thumbnail>
+</item>
+<item>
+
+<item>
+<title>Tunesia National 2</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=t2?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com//tunisia_nationale2.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/tunisia_national_2.jpg</thumbnail>
+</item>
+<item>
+
+<item>
+<title>Attounsiya</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=at?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com//attounsiya.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/attounsiya.jpg</thumbnail>
+</item>
+<item>
+
+<item>
+<title>Nessma</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=n?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com//nessma.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/nessma.jpg</thumbnail>
+</item>
+
+<item>
+<title>Attassia Tv</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=attassia?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com//attassia.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/Attassia%20Tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>CBC</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=cbc?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com//cbc.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/cbc.jpg</thumbnail>
+</item>
+
+<item>
+<title>CBC Drama</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=cbcd?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com//tunisia_nationale2.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/alnahardrama.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Alnahardrama</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=ennahard?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com//alnahardrama.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/alnahardrama.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>AL Chorouk</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=echourouk?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/alchourouk.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/Echorouk%20Tv.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>AL Jadeed</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=aljadeed?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/aljadeed.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/Aljadeed.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>LBC</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=lbc?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/lbc.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/lbc.jpg</thumbnail>
+</item>
+
+<item>
+<title>Panorama drama</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=pd?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/panoramadrama.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/panoramadrama.jpg</thumbnail>
+</item>
+
+<item>
+<title>Panorama drama 2</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=pd2?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/panoramadrama2.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/panoramadrama2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Dubai</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=dubai?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/dubai.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/dubai.jpg</thumbnail>
+</item>
+
+<item>
+<title>ROTANA CLIP</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=rcl?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/rotanaclip.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/rotana_clip.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cairo cinema</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=cc?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/cairocinema.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/cairodrama.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cairo drama</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=cd?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/cairodrama.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/cairodrama.jpg</thumbnail>
+</item>
+
+<item>
+<title>Dzair tv</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=dzair_tv?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/dzair_tv.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/dzair%20tv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Art aflem 1</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=artaflam1?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/artaflem1.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/artaflem1.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Art aflem 2</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=artaflam2?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/artaflem2.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/artaflem2.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>MTV</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=mtv?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/mtv.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/mtv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Iqraa</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=iqraa?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/iqraa.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/iqraa.jpg</thumbnail>
+</item>
+
+<item>
+<title>Future</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=future?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/future.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/Future.jpg</thumbnail>
+</item>
+
+<item>
+<title>2M</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=2m?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/2m.htm</referer>
+</regex>
+<thumbnail>http://www.crozcast.com/images/logos/1779.png</thumbnail>
+</item>
+
+<item>
+<title>Alhayet cinema</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=Hi_AlHayatCinema?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/alhayetcinema.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/alhayetcinema.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mehwar</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=mehwar2?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/mehwar2.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/mehwar2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Cima</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=cima?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/cima.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/cima.jpg</thumbnail>
+</item>
+
+<item>
+<title>Toyour aljanna</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=toyouraljanna?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/toyouraljanna.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/toyouraljanna.jpg</thumbnail>
+</item>
+
+<item>
+<title>France24</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=france24?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/france24.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/france24.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kbc algeria</title>
+<link>rtmp://web1.iptv-planet.com:1937/live2 playpath=kbc_algeria?cle=$doregex[id] swfUrl=http://embed.iptv-planet.com/swfs/player.swf pageUrl=http://embed.iptv-planet.com/embed.php?id=cd live=1 swfVfy=true</link>
+<regex>
+<name>id</name>
+<expres>cle=([^']*)</expres>
+<page>http://embed.iptv-planet.com/embed.php?id=cd&amp;width=600&amp;height=400</page>
+<referer>http://iptv-planet.com/images/kbc_algeria.htm</referer>
+</regex>
+<thumbnail>http://iptv-planet.com/images/kbc%20algeria.jpg</thumbnail>
+</item>
