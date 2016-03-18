@@ -1,7 +1,9 @@
 <items>
 <item>
 <title>﻿tunisia_nat1</title>
-<link>rtmp://l.iptp.me:1936/free/t1?user=5626&pass=9f58</link>
-<fanart></fanart>
+<f4m>rtmp://l.iptp.me:1936/free/t1?user=5626&pass=9f58</f4m>
+<referer>http://l.iptp.me/</referer>
 <thumbnail></thumbnail>
+<fanart></fanart>
 </item>
+</items>
