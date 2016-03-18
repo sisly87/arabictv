@@ -42,9 +42,8 @@ class NoRedirection(urllib2.HTTPErrorProcessor):
        return response
    https_response = http_response
 
-ASBase = 'aHR0cHM6Ly9naXRodWIuY29tL21lZGlhcXViZS9hcmFiaWN0di9yYXcvbWFzdGVyL3htbC9IZWFkZXIueG1s'
-ASBase1 ='aHR0cHM6Ly9naXRodWIuY29tL21lZGlhcXViZS9hcmFiaWN0di9yYXcvbWFzdGVyL3htbC9JbmRleC54bWw='
-
+ASBase = 'aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21lZGlhcXViZS9hcmFiaWN0di9tYXN0ZXIveG1sL0hlYWRlci54bWw='
+ASBase1 ='aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21lZGlhcXViZS9hcmFiaWN0di9tYXN0ZXIveG1sL0FyYWIxLnhtbA=='
 
 
 
@@ -113,10 +112,39 @@ def Colored(text = '', colorid = '', isBold = False):
         text = '[B]' + text + '[/B]'
     return '[COLOR ' + color + ']' + text + '[/COLOR]' 
 
+def AddSports365Channels(url=None):
+    errored=True
+    import live365
+    addDir(Colored("All times in local timezone.",'red') ,"" ,0 ,"","","","","","","",isItFolder=False)		#name,url,mode,icon
+    videos=live365.getLinks()
+    for nm,link,active in videos:
+        if active:
+           
+            addDir(Colored(nm  ,'ZM') ,link,48 ,"","","","","","","",isItFolder=False)
+        else:
+            addDir("[N/A]"+Colored(nm ,'blue') ,"",0 ,"","","","","","","",isItFolder=False)
+        errored=False
+    if errored:
+       if RefreshResources([('live365.py','https://raw.githubusercontent.com/arabictv/arabictv/raw/master/plugin.video.arabictv/live365.py')]):
+            dialog = xbmcgui.Dialog()
+            ok = dialog.ok('XBMC', 'No Links, so updated files dyamically, try again, just in case!')           
+            print 'Updated files'
 
 
-
-
+def playSports365(url):
+    #print ('playSports365')
+    import live365
+    urlToPlay=live365.selectMatch(url)
+    if urlToPlay and len(urlToPlay)>0:
+        listitem = xbmcgui.ListItem( label = str(name), iconImage = "DefaultVideo.png", thumbnailImage = xbmc.getInfoImage( "ListItem.Thumb" ) )
+    #    print   "playing stream name: " + str(name) 
+        xbmc.Player(  ).play( urlToPlay, listitem)  
+    else:
+       if RefreshResources([('live365.py','https://raw.githubusercontent.com/arabictv/arabictv/raw/master/plugin.video.arabictv/live365.py')]):
+            dialog = xbmcgui.Dialog()
+            ok = dialog.ok('XBMC', 'No Links, so updated files dyamically, try again, just in case!')           
+            print 'Updated files'
+    return	
     
 def RefreshResources(resources):
 #	print Fromurl
@@ -268,11 +296,8 @@ def findStream(page) :
 				
 def ASIndex():
     addon_log("ASIndex")
-    getData(base64.b64decode(ASBase),'')
     getData(base64.b64decode(ASBase1),'')
-
- 
-   
+    getData(base64.b64decode(ASBase),'')
   
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
@@ -2824,7 +2849,16 @@ elif mode==40:
     SearchChannels()
     SetViewThumbnail()
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
-   	  	
+
+		
+elif mode==47 :
+    AddSports365Channels(url)
+    
+elif mode==48:
+    url=base64.b64decode(url)
+    xbmc.log(url)
+    playSports365(url.split('Sports365:')[1])
+    	  	
 elif mode==53:
     addon_log("Requesting JSON-RPC Items")
     pluginquerybyJSON(url)
