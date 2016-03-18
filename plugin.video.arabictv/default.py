@@ -16,6 +16,7 @@ import plugintools
 import urlparse
 import httplib
 import time
+import live365
 from addon.common.net import Net
 from BeautifulSoup import BeautifulStoneSoup, BeautifulSoup, BeautifulSOAP
 try:
@@ -41,12 +42,15 @@ class NoRedirection(urllib2.HTTPErrorProcessor):
        return response
    https_response = http_response
 
-ASBase = 'aHR0cHM6Ly9naXRodWIuY29tL21lZGlhcXViZS9hcmFiaWN0di9yYXcvbWFzdGVyL3htbC9JbmRleC54bWw='
-ASBase1 = 'aHR0cHM6Ly9naXRodWIuY29tL21lZGlhcXViZS9hcmFiaWN0di9yYXcvbWFzdGVyL3htbC9IZWFkZXIueG1s'
+ASBase = 'aHR0cHM6Ly9naXRodWIuY29tL21lZGlhcXViZS9hcmFiaWN0di9yYXcvbWFzdGVyL3htbC9IZWFkZXIueG1s'
+ASBase1 ='aHR0cHM6Ly9naXRodWIuY29tL21lZGlhcXViZS9hcmFiaWN0di9yYXcvbWFzdGVyL3htbC9JbmRleC54bWw='
+
+
+
 
 sourceSitebvls = 'http://bvls2016.sc'      
 
-addon = xbmcaddon.Addon('plugin.video.arabic')
+addon = xbmcaddon.Addon('plugin.video.arabictv')
 addon_version = addon.getAddonInfo('version')
 profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
 home = xbmc.translatePath(addon.getAddonInfo('path').decode('utf-8'))
@@ -109,7 +113,11 @@ def Colored(text = '', colorid = '', isBold = False):
         text = '[B]' + text + '[/B]'
     return '[COLOR ' + color + ']' + text + '[/COLOR]' 
 
-   
+
+
+
+
+    
 def RefreshResources(resources):
 #	print Fromurl
     pDialog = xbmcgui.DialogProgress()
@@ -230,7 +238,7 @@ def streamNpo(source):
 
 def addon_log(string):
     if debug == 'true':
-        xbmc.log("[addon.live.arabicr3-%s]: %s" %(string))
+        xbmc.log("[addon.live.arabictvr3-%s]: %s" %(string))
 
 def makeRequest(url, headers=None):
         try:
@@ -245,11 +253,11 @@ def makeRequest(url, headers=None):
             addon_log('URL: '+url)
             if hasattr(e, 'code'):
                 addon_log('We failed with error code - %s.' % e.code)
-                xbmc.executebuiltin("XBMC.Notification(arabic,We failed with error code - "+str(e.code)+",10000,"+icon+")")
+                xbmc.executebuiltin("XBMC.Notification(arabictv,We failed with error code - "+str(e.code)+",10000,"+icon+")")
             elif hasattr(e, 'reason'):
                 addon_log('We failed to reach a server.')
                 addon_log('Reason: %s' %e.reason)
-                xbmc.executebuiltin("XBMC.Notification(arabic,We failed to reach a server. - "+str(e.reason)+",10000,"+icon+")")
+                xbmc.executebuiltin("XBMC.Notification(arabictv,We failed to reach a server. - "+str(e.reason)+",10000,"+icon+")")
 
 def findStream(page) :
     frameHtml = bitly.OPEN_URL2(page, sourceSitebvls, bitly.getUserAgent())
@@ -260,13 +268,13 @@ def findStream(page) :
 				
 def ASIndex():
     addon_log("ASIndex")
-    getData(base64.b64decode(ASBase1),'') 
-    getData(base64.b64decode(ASBase),'') 
+    getData(base64.b64decode(ASBase),'')
+    getData(base64.b64decode(ASBase1),'')
+
+ 
+   
+  
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
-
-
-
-
 
 
 def showText(heading, text):
@@ -408,7 +416,7 @@ def addSource(url=None):
             b.close()
         addon.setSetting('new_url_source', "")
         addon.setSetting('new_file_source', "")
-        xbmc.executebuiltin("XBMC.Notification(arabic,New source added.,5000,"+icon+")")
+        xbmc.executebuiltin("XBMC.Notification(arabictv,New source added.,5000,"+icon+")")
         if not url is None:
             if 'xbmcplus.xb.funpic.de' in url:
                 xbmc.executebuiltin("XBMC.Container.Update(%s?mode=14,replace)" %sys.argv[0])
@@ -724,7 +732,7 @@ def GetSublinks(name,url,iconimage,fanart):
             pass
     else:
          dialog=xbmcgui.Dialog()
-         rNo=dialog.select('arabic Select A Source', List)
+         rNo=dialog.select('arabictv Select A Source', List)
          if rNo>=0:
              rName=str(List[rNo])
              rURL=str(ListU[rNo])
@@ -746,7 +754,7 @@ def SearchChannels():
     if keyboard.isConfirmed():
        Searchkey = keyboard.getText().replace('\n','').strip()
        if len(Searchkey) == 0: 
-          xbmcgui.Dialog().ok('arabic', 'Nothing Entered')
+          xbmcgui.Dialog().ok('arabictv', 'Nothing Entered')
           return	   
     
     Searchkey = Searchkey.lower()
@@ -757,7 +765,7 @@ def SearchChannels():
     ReadChannel = 0
     FoundMatch = 0
     progress = xbmcgui.DialogProgress()
-    progress.create('arabic Searching Please wait',' ')
+    progress.create('arabictv Searching Please wait',' ')
 	
     while FoundChannel <> ReadChannel:
         BaseSearch = List[ReadChannel].strip()
@@ -1027,7 +1035,7 @@ def getItems(items,fanart):
                                     f4m = 'plugin://plugin.video.f4mTester/?url='+urllib.quote_plus(i.string)+'&amp;streamtype=HLS'
                                     
                                 else:
-                                    f4m = 'plugin://plugin.video.f4mTester/?url='+urllib.quote_plus(i.string)+'&amp;streamtype=SIMPLE'
+                                    f4m = 'plugin://plugin.video.f4mTester/?url='+urllib.quote_plus(i.string)+'&amp;streamtype=TSDOWNLOADER'
                         url.append(f4m)
                 elif len(item('ftv')) >0:
                     for i in item('ftv'):
@@ -2181,12 +2189,12 @@ def urlsolver(url):
     try:
         import genesisresolvers
     except Exception:
-        xbmc.executebuiltin("XBMC.Notification(arabic,Please enable Update Commonresolvers to Play in Settings. - ,10000)")
+        xbmc.executebuiltin("XBMC.Notification(arabictv,Please enable Update Commonresolvers to Play in Settings. - ,10000)")
 
     resolved=genesisresolvers.get(url).result
     if url == resolved or resolved is None:
         #import
-        xbmc.executebuiltin("XBMC.Notification(arabic,Using Urlresolver module.. - ,5000)")
+        xbmc.executebuiltin("XBMC.Notification(arabictv,Using Urlresolver module.. - ,5000)")
         import urlresolver
         host = urlresolver.HostedMediaFile(url)
         if host:
@@ -2244,12 +2252,12 @@ def play_playlist(name, mu_playlist):
 
 def download_file(name, url):
         if addon.getSetting('save_location') == "":
-            xbmc.executebuiltin("XBMC.Notification('arabic','Choose a location to save files.',15000,"+icon+")")
+            xbmc.executebuiltin("XBMC.Notification('arabictv','Choose a location to save files.',15000,"+icon+")")
             addon.openSettings()
         params = {'url': url, 'download_path': addon.getSetting('save_location')}
         downloader.download(name, params)
         dialog = xbmcgui.Dialog()
-        ret = dialog.yesno('arabic', 'Do you want to add this file as a source?')
+        ret = dialog.yesno('arabictv', 'Do you want to add this file as a source?')
         if ret:
             addSource(os.path.join(addon.getSetting('save_location'), name))
 
@@ -2274,11 +2282,11 @@ def addDir(name,url,mode,iconimage,fanart,description,genre,date,credits,showcon
                 contextMenu.append(('Download','XBMC.RunPlugin(%s?url=%s&mode=9&name=%s)'
                                     %(sys.argv[0], urllib.quote_plus(url), urllib.quote_plus(name))))
             elif showcontext == 'fav':
-                contextMenu.append(('Remove from arabic Favorites','XBMC.RunPlugin(%s?mode=6&name=%s)'
+                contextMenu.append(('Remove from arabictv Favorites','XBMC.RunPlugin(%s?mode=6&name=%s)'
                                     %(sys.argv[0], urllib.quote_plus(name))))
 									
             if not name in FAV:
-                contextMenu.append(('Add to arabic Favorites','XBMC.RunPlugin(%s?mode=5&name=%s&url=%s&iconimage=%s&fanart=%s&fav_mode=%s)'
+                contextMenu.append(('Add to arabictv Favorites','XBMC.RunPlugin(%s?mode=5&name=%s&url=%s&iconimage=%s&fanart=%s&fav_mode=%s)'
                          %(sys.argv[0], urllib.quote_plus(name), urllib.quote_plus(url), urllib.quote_plus(iconimage), urllib.quote_plus(fanart), mode)))
             liz.addContextMenuItems(contextMenu)
         ok=xbmcplugin.addDirectoryItem(handle=int(sys.argv[1]),url=u,listitem=liz,isFolder=isItFolder)
@@ -2383,7 +2391,7 @@ def search(site_name,search_term=None):
                 SaveToFile(history,page_data,append=True)
                 return url
         else:
-            xbmc.executebuiltin("XBMC.Notification(arabic,No IMDB match found ,7000,"+icon+")")
+            xbmc.executebuiltin("XBMC.Notification(arabictv,No IMDB match found ,7000,"+icon+")")
 ## Lunatixz PseudoTV feature
 def ascii(string):
     if isinstance(string, basestring):
@@ -2535,7 +2543,7 @@ def addLink(url,name,iconimage,fanart,description,genre,date,showcontext,playlis
             contextMenu = []
             if showcontext == 'fav':
                 contextMenu.append(
-                    ('Remove from arabic Favorites','XBMC.RunPlugin(%s?mode=6&name=%s)'
+                    ('Remove from arabictv Favorites','XBMC.RunPlugin(%s?mode=6&name=%s)'
                      %(sys.argv[0], urllib.quote_plus(name)))
                      )
             elif not name in FAV:
@@ -2547,7 +2555,7 @@ def addLink(url,name,iconimage,fanart,description,genre,date,showcontext,playlis
                     fav_params += 'playlist='+urllib.quote_plus(str(playlist).replace(',','||'))
                 if regexs:
                     fav_params += "&regexs="+regexs
-                contextMenu.append(('Add to arabic Favorites','XBMC.RunPlugin(%s)' %fav_params))
+                contextMenu.append(('Add to arabictv Favorites','XBMC.RunPlugin(%s)' %fav_params))
             liz.addContextMenuItems(contextMenu)
        
         if not playlist is None:
@@ -2774,13 +2782,13 @@ elif mode==17:
     if url:
         playsetresolved(url,name,iconimage,setresolved)
     else:
-        xbmc.executebuiltin("XBMC.Notification(arabic,Failed to extract regex. - "+"this"+",4000,"+icon+")")
+        xbmc.executebuiltin("XBMC.Notification(arabictv,Failed to extract regex. - "+"this"+",4000,"+icon+")")
 elif mode==18:
     addon_log("youtubedl")
     try:
         import youtubedl
     except Exception:
-        xbmc.executebuiltin("XBMC.Notification(arabic,Please [COLOR yellow]install Youtube-dl[/COLOR] module ,10000,"")")
+        xbmc.executebuiltin("XBMC.Notification(arabictv,Please [COLOR yellow]install Youtube-dl[/COLOR] module ,10000,"")")
     stream_url=youtubedl.single_YD(url)
     playsetresolved(stream_url,name,iconimage)
 elif mode==19:
@@ -2816,16 +2824,7 @@ elif mode==40:
     SearchChannels()
     SetViewThumbnail()
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
-
-	
-elif mode==47 :
-    AddSports365Channels(url)
-    
-elif mode==48:
-    url=base64.b64decode(url)
-    xbmc.log(url)
-    playSports365(url.split('Sports365:')[1])
-    	  	
+   	  	
 elif mode==53:
     addon_log("Requesting JSON-RPC Items")
     pluginquerybyJSON(url)
