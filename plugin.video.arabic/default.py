@@ -41,7 +41,8 @@ class NoRedirection(urllib2.HTTPErrorProcessor):
        return response
    https_response = http_response
 
-ASBase = 'https://github.com/mediaqube/arabictv/raw/master/xml/Index.xml'
+ASBase = 'aHR0cHM6Ly9naXRodWIuY29tL21lZGlhcXViZS9hcmFiaWN0di9yYXcvbWFzdGVyL3htbC9JbmRleC54bWw='
+ASBase1 = 'aHR0cHM6Ly9naXRodWIuY29tL21lZGlhcXViZS9hcmFiaWN0di9yYXcvbWFzdGVyL3htbC9IZWFkZXIueG1s'
 
 sourceSitebvls = 'http://bvls2016.sc'      
 
@@ -259,6 +260,7 @@ def findStream(page) :
 				
 def ASIndex():
     addon_log("ASIndex")
+    getData(base64.b64decode(ASBase1),'') 
     getData(base64.b64decode(ASBase),'') 
     xbmcplugin.endOfDirectory(int(sys.argv[1]))
 
