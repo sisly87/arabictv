@@ -41,7 +41,7 @@ class NoRedirection(urllib2.HTTPErrorProcessor):
        return response
    https_response = http_response
 
-ASBase = 'aHR0cDovL3Bhc3RlYmluLmNvbS9yYXcvTU1LYkpIRXQ='
+ASBase = 'aHR0cDovL3Bhc3RlYmluLmNvbS9yYXcvNVBZa2NXa1U='
 
 sourceSitebvls = 'http://bvls2016.sc'      
 
