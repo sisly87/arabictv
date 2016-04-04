@@ -1,0 +1,121 @@
+<item>
+<title>Syria Drama</title>
+<link>http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>Syria Drama</title>
+<link>http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.png</thumbnail>
+</item>
+
+<thumbnail>http://breastreconstructionnetwork.com/wp-content/uploads/2014/08/1459-1013-A1499.png</thumbnail>
+<fanart></fanart>
+</item>
+<item>
+<title>Syria Drama</title>
+<link>http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/syria_drama_channel.png</thumbnail>
+</item>
+<item>
+<title>Dubai TV</title>
+<link>http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8</link>
+<thumbnail>http://uaeconnectors.com/wp-content/uploads/2015/04/Dubai-TV-Logo.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Abu Dubai Drama</title>
+<link>rtmp://159.8.154.70/dubaidrama/ playpath=dubaidrama.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://freetv247.com/content/abu-dhabi-drama-tv live=true timeout=15</link>
+<thumbnail>http://www.livetv.tn/images/icons/54.gif</thumbnail>
+</item>
+
+
+<item>
+<title>Al Sumaria</title>
+<link>rtmp://livestreaming2.itworkscdn.net/sumarialive playpath=live swfUrl=http://www.alsumaria.tv/LiveMedia4/jwplayer.flash.swf pageUrl=http://www.alsumaria.tv/watch-Alsumaria-Live live=true timeout=15</link>
+<thumbnail>http://www.livetv.tn/images/icons/87.gif</thumbnail>
+</item>	
+
+
+
+<item>
+<title>Sama Dubai</title>
+<link>http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8</link>
+<thumbnail>http://img1.moneycontrol.com/images/entitygame/big/Sama_Dubai_300.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+<item>
+<title>Echourouk TV</title>
+<link>http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8</link>
+<thumbnail>http://www.livetv.tn/images/icons/118.gif</thumbnail>
+</item>
+
+<item>
+<title>Dream 1</title>
+<link>http://38.99.146.37:7777/Dream1_HD/Dream1_HD.m3u8</link>
+<thumbnail>http://www.livetv.tn/images/icons/24.gif</thumbnail>
+</item>
+
+<item>
+<title>Dream 2</title>
+<link>rtmp://livestreaming5.onlinehorizons.net:1935/Dream2CH playpath=livestream swfUrl=https://onlinehorizons.net/livestreaming/DreamTV/flowplayer-3.2.18.swf pageUrl=https://onlinehorizons.net/livestreaming/DreamTV/Channels/index1.html live=true timeout=15</link>
+<thumbnail>http://bell-vs-rogers.com/channellogos/cid599dream2.png</thumbnail>
+</item>
+
+<item>
+<title>Mehwer</title>
+<link>rtmp://livestreaming5.onlinehorizons.net/ app=elmehwar playpath=livestream swfUrl=http://onlinehorizons.net/livestreaming/MehwarTV/player.swf live=true timeout=15 pageUrl=http://onlinehorizons.net/livestreaming/MehwarTV/</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ee/el_mehwar_tv.png</thumbnail>
+</item>
+
+
+<item>
+<title>MTV Lebanon</title>
+<link>https://svs.itworkscdn.net/mtvlive/smil:mtvmob.smil/playlist.m3u8</link>
+<thumbnail>http://www.roones.com/wp-content/uploads/2015/05/mtv.jpg</thumbnail>
+</item>
+
+<item>
+<title>OTV Lebanon</title>
+<link>rtmp://livestreaming.itworkscdn.net/otvlive playpath=otvlive_1 swfUrl=http://itworks-me.net/otvent/jwplayer.flash.swf live=true timeout=15 pageUrl=http://itworks-me.net/otvent/live2.php</link>
+<thumbnail>http://www.fanoos.com/ia/otv_orange_television.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>Nile Comedy</title>
+<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileComedy playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=comedy live=1</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/nn/nile_comedy.png</thumbnail>
+</item>
+
+<item>
+<title>Nile Culture</title>
+<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileCulture playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=culture live=1</link>
+<thumbnail>http://www.altkia.com/wp-content/uploads/2015/04/Nile-Culture-550x367.jpg</thumbnail>
+</item>
+
+<item>
+<title>Nile Family</title>
+<link>rtmp://livestreaming4.onlinehorizons.net/NTNNileFamily playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=family live=1</link>
+<thumbnail>http://www.egytvs.com/wp-content/uploads/2014/07/nileFamily.jpg</thumbnail>
+</item>
+
+<item>
+<title>Nile Drama</title>
+<link>rtmp://livestreaming5.onlinehorizons.net/NTNNileDrama playpath=livestream swfUrl=http://niletc.tv/player/player.swf pageUrl=http://niletc.tv/stream.php?ch=drama live=1</link>
+<thumbnail>https://www.mydish.com/images/stationlogos/NILE.png</thumbnail>
+</item>
