@@ -1,40 +1,1216 @@
 <item>
-<title>Test1</title>
-<f4m>ttp://iptv-supplier.com:8000/live/moumen/moumen/106.ts</f4m>
-<thumbnail>http://www.arabe-media.com/tv/img132.jpg</thumbnail>
+<title>FRENCH |  BEIN SPORTS HD1</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/17.ts</f4m>
+<thumbnail></thumbnail>
 </item>
-
 <item>
-<title>Test2</title>
-<f4m>ttp://iptv-supplier.com:8000/live/moumen/moumen/106.ts</f4m>
-<thumbnail>http://www.arabe-media.com/tv/img132.jpg</thumbnail>
+<title>FRENCH |  BEIN SPORTS HD2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/18.ts</f4m>
+<thumbnail></thumbnail>
 </item>
-
-
-
 <item>
-<title>Test3</title>
-<f4m>http://iptv-supplier.com:8000/live/moumen/moumen/106.ts</f4m>
-<thumbnail>http://www.arabe-media.com/tv/img132.jpg</thumbnail>
+<title>FRENCH |  BEIN SPORTS HD3</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/19.ts</f4m>
+<thumbnail></thumbnail>
 </item>
-
-
 <item>
-<title>Test4</title>
-<f4m>http://iptv-supplier.com:8000/live/moumen/moumen/107.ts</f4m>
-<thumbnail>http://www.arabe-media.com/tv/img132.jpg</thumbnail>
+<title>FRENCH |  BEINSPORT_MAX4</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/559.ts</f4m>
+<thumbnail></thumbnail>
 </item>
-
-
 <item>
-<title>Test5</title>
-<f4m>http://iptv-supplier.com:8000/live/moumen/moumen/108.ts</f4m>
-<thumbnail>http://www.arabe-media.com/tv/img132.jpg</thumbnail>
+<title>FRENCH |  BEINSPORT_MAX5</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/558.ts</f4m>
+<thumbnail></thumbnail>
 </item>
-
-
 <item>
-<title>Test6</title>
-<f4m>http://iptv-supplier.com:8000/live/moumen/moumen/112.ts</f4m>
-<thumbnail>http://www.arabe-media.com/tv/img132.jpg</thumbnail>
+<title>FRENCH |  BEINSPORT_MAX6</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/554.ts</f4m>
+<thumbnail></thumbnail>
 </item>
+<item>
+<title>FRENCH |  BEINSPORT_MAX7</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1706.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>FRENCH |  BEINSPORT_MAX8</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1707.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beINSports 1 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/8.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beINSports 2 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/9.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beINSports 3 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/10.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beINSports 4 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/11.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beINSports 5 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/12.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beINSports 6 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/13.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beINSports 7 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/14.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beINSports 8 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/15.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beINSports 9 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/16.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beIN SPORTS 13HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/320.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beIN SPORTS 12HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/319.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beIN SPORTS 11HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/318.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beIN SPORTS 10HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/316.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beIN SPORTS 1HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/307.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beIN SPORTS 2HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/308.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beIN SPORTS 3HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/309.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beIN SPORTS 4HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/310.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beIN SPORTS 5HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/311.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beIN SPORTS 6HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/312.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beIN SPORTS 7HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/313.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beIN SPORTS 8HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/314.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>beIN SPORTS 9HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/315.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC | BeinHD_Movies2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1670.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC | BeinHD_Movies1</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1671.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ZEE AWALAN</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/352.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  FRANCE 24</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1591.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  CBC TWO</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1590.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  TOYOR AL JANAH</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/406.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  TOUNESNA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/405.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  SYRIA NOUR</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/404.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  SYRIA DRAMA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/403.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  SPACETOON</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/542.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  SAMA TV SYRIA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/399.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  TUNISIA 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/813.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  TUNISIA 1</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/812.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  HANNIBAL</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/809.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  SAMA DUBAI</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/398.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ALJANOUBIA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/810.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ROTANA CLASSIC</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/347.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ROTANA CINEMA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/348.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ROTANA MASSRIA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/396.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ROTANA KHALIGIA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/395.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ROTANA CLIP</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/394.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC | ROTANA CINEMA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/393.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  NILE CINEMA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/236.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  Funoon HD AR</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/381.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  DUBAI SPORT 1 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/660.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  DUBAI SPORT</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/661.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  SAUDI QURAN</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/351.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  DUBAI ONE</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/785.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  DREAM 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/349.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  CBC SOFRA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/781.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  CBC EXTRA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/159.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  BARAEM KIDS</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/782.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ALWATAN ALGERIA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/783.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ALGERIA TV</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/784.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  QURAN TV</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/392.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  NILE SPORT</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/239.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  NILE LIFE</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/238.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  NESMA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/780.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  FATAFEET</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/7.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  NILE DRAMA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/237.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  NILE COMEDY</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/389.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MBC MAX</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/326.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MBC Drama</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/327.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MBC ACTION</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/325.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  Cinema1</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/531.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  Cinema2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/532.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  Cinema3</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/533.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  Cinema4</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/534.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  Cinema5</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/535.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  Cinema6</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/536.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ART HEKAYAT 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/329.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ART HEKAYAT 1</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/328.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ART CINEMA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/304.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC | ART AFLAM 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/305.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ART AFLAM 1</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/306.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  BBC ARABIC</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/545.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ELDJAZAIRIA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/162.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN YA HALA DRAMA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/169.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN STAR MOVIES 1 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/171.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN MOVIES PREMIERE</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/173.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN MOVIE PREMIERE HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/177.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN SPORT 4</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/540.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN SPORT 3</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/539.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN YAHALA HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/358.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN STAR MOVIES 2 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/357.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN MOVIES FIRST</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/356.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN MOVIES FESTIVAL</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/335.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN MOVIES ACTION 2 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/337.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN MBC DRAMA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/355.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN CINEMA 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/354.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN MOVIES FIRST MORE HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/703.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>OSN Mov Premier  2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/705.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN DISCOVERY SC HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/707.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN COMEDY</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/708.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>OSN CINEMA 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/709.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>OSN CINEMA 1</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/710.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN SPORT 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/538.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN SPORT 1</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/537.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN MOVIES ACTION HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/336.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN MOVIE KIDS HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/693.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN NAT GEO WILD HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/172.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN MOVIES HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/174.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN MOVIES DRAMA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/175.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  OSN ANIMAL PLANET</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/180.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Tamazight</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/324.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MA_Medi1Tv</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/153.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MA_Assadissa</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/154.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MA_Arryadia</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/155.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MA_almaghribia</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/156.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MA_alaoula</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/157.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC | MA_2M</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/158.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>KBC (dz)</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/20.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  NESMA TV</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/390.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  SAMIRA TV</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/3.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>EL DJAZAIRIA (dz)</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ROTANA MUSIC</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/397.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ECHOUROK TV (dz)</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/704.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  DZAIR NEWS</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/160.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC | :NBN TV LEBANON</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/388.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MTV LEBANON</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/386.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MEKKAH TV</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/385.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MBC MASR</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/345.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MBC4</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/234.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MBC MAXHD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/344.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MBC BOLLYWOOD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/343.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  LBC HD LEBANON</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/378.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  IQRAA TV</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/330.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  DZAIR TV</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/382.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  DREAM 1</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/331.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  DUBAI TV</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/240.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  DUBAI ONE HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/242.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  DUBAI RACING</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/376.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  DUBAI DRAMA HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/662.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  DREAM</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/380.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  CBC Drama</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/384.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC | CBC</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/383.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  CARTOON NETWORK</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/387.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  BBC ARABIA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/377.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ALJAZEERA HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/543.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ALJAZEERA DOC HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/544.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  AL ARABIA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/241.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  AJYAL KIDS</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/379.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  AD SPORTS 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/400.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ABU DHABI NATGEO</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/332.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ABU DHABI DARAMA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/333.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ZEE AFLAM</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/350.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MBC MASR 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/346.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MBC3</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/182.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MBC2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/183.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MBC1</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/184.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MBC PRO SPORT 3</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/342.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MBC PRO SPORT 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/341.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  MBC PRO SPORT 1</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/340.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  CIMA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/665.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  CAIRO DRAMA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/666.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  CAIRO CINEMA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/667.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  AL HIWAR ETTOUNSI</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/811.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |   AL TOUNSIA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/668.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  AL RESALAH</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/669.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |   AL MANAR</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/670.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ALJAZEERA MUBASHER</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/672.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  AL MAJD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/673.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ABU DHABI SPORT</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/671.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  DUBAI AL AOULA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/5.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ECHOUROUK BENNA</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/4.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  ENNAHAR TV</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/161.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  DUBAI ZAMAN</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/6.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ARABIC |  CBC</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/2.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  ATV HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/984.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  TV8 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/990.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  TRT HABER</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/988.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  TRT COCUK</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/999.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  TRT1</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/983.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |   MINIKA COCUK HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/981.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  SINEMA 3D</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1589.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  NAT GEO WILD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1581.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  NAT GEO</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1580.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  MOVIE SMART GOLD 2 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1583.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  MOVIE MAX FESTIVAL</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1587.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  KRAL POP</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1582.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  CINEBOX 3</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1586.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  CINEBOX 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1585.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  CINEBOX</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1584.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  STAR TV HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/980.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  SHOW TV</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/982.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  POWER TURK</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/997.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  PLANET COCUK</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/996.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  NTV</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/992.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  MINIKA GO</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/994.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  MINIKA COCUK</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/995.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  KRAL TV</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/998.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  KANAL A</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/993.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  KANAL D</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/985.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  KANAL 7</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/991.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  KANALD HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1577.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  KANAL TURK</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/986.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  FOX TV HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1403.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  BEYAZ TV</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/987.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  TRIVIBU SPOR 1 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1367.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  DISNEY CHANNEL</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1373.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  CNN 4 TR</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1374.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>AL: Top Kanal</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1412.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  TRT SPOR</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/879.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  TIVIBUSPOR-SMART SPOR DONUSUMLU</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/877.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  TIVIBUSPOR 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/878.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  SPORTS TV</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/881.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  SINEMA TV</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/887.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  SINEMA KORKU 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/895.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  SINEMA KORKU 1</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/894.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  SINEMA KOMEDI 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/901.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  SINEMA KOMEDI 1</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/900.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  BLOOMBERG</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/903.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  DISCOVERY SCIENCE</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/902.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  SINEMA AKSIYON 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/899.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  SINEMA AKSIYON 1</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/898.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  SINEMA AILE 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/897.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  SINEMA AILE 1</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/896.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  Salon 3 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/890.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  Salon 2 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/889.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  SALON 1 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/888.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  NTV SPOR</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/880.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  MOVIESMART PREMIUM</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/886.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  MOVIESMART FEST</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/885.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  MOVIEMAX FAMILY HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/884.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  LOCA 3</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/893.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  LOCA 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/892.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  LOCA 1</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/891.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  LIGTV 2</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/875.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  LIGTV 3</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/876.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  LIGTV4 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/1551.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  A SPOR</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/882.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  7/24 TV</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/883.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKISH |  LIGTV1 HD</title>
+<f4m>http://iptvbox.noip.us:9998/live/atik/atik/826.ts</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
