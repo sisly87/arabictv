@@ -1,10 +1,18 @@
 <channels>
 <channel>
-<name>Arabic IPTV list</name>
+<name>Arabic TV List 1</name>
 <thumbnail>https://github.com/mediaqube/arabictv/raw/master/plugin.video.arabic/icon.png</thumbnail>
 <fanart>http://travelbysan.nl/wp-content/uploads/2015/02/Sjeik-Zayed-moskee-Abu-Dhabi-Verenigde-Arabische-Emiraten.jpg</fanart>
 <link></link>
 <externallink>http://bit.ly/1XcJMQ0</externallink>
+</channel>
+
+<channel>
+<name>Arabic TV List 2</name>
+<thumbnail>https://github.com/mediaqube/arabictv/raw/master/plugin.video.arabic/icon.png</thumbnail>
+<fanart>http://travelbysan.nl/wp-content/uploads/2015/02/Sjeik-Zayed-moskee-Abu-Dhabi-Verenigde-Arabische-Emiraten.jpg</fanart>
+<link></link>
+<externallink>http://bit.ly/1RDY0ck</externallink>
 </channel>
 
 <channel>
