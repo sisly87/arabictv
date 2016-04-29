@@ -1,89 +1,61 @@
----TURKEY-TV-8-----
-http://bit.ly/1TyVvHL
-TVEM
-http://bit.ly/1NXzs9u
-TRT_cocuk
-http://bit.ly/1NDDrx5
-TRT HD
-http://bit.ly/1TyVvHH
-Moviemax_Stars
-http://bit.ly/1TyVu6H
-Moviemax_Premiere
-http://bit.ly/1NXzs9t
-Moviemax_Festival
-http://bit.ly/1TyVvHI
-Moviemax_Family
-http://bit.ly/1TyVvHM
-KANALTURK
-http://bit.ly/1TyVu6J
- YABAN
-http://bit.ly/1TyVu6I
- TRT_1 HD
-http://bit.ly/1TyVvHJ
- TRT Turk
-http://bit.ly/2473swl
- TRT HABER HD
-http://bit.ly/1NDDysg
- TRT Cocuk
-http://bit.ly/1TyVzqV
- Tivibu Spor 2 HD
-http://bit.ly/1TyVxzw
- STAR TV
-http://bit.ly/1TyVzqX
- Sinema TV 1 HD
-http://bit.ly/1TyVzqU
- Show TV HD
-http://bit.ly/2473Afm
- SALON3
-http://bit.ly/1TyVxzz
- SALON2
-http://bit.ly/1TyVxzx
- SALON1
-http://bit.ly/1TyVzqW
- Salon 9
-http://bit.ly/1TyVxzA
- Salon 8
-http://bit.ly/1TyVxzy
- Salon 7
-http://bit.ly/1SvQAbK
- Salon 6
-http://bit.ly/2473Afn
- Salon 5
-http://bit.ly/2473ELS
- POWER TURK HD
-http://bit.ly/1TyVC6g
- NTV SmartSpor
-http://bit.ly/1TyVC6j
- MOViESMART_PREMIUM
-http://bit.ly/1TyVDHf
- MOViEMAX_FESTIFAL_HD
-http://bit.ly/2473ELY
- MOVIEMAXOSCAR
-http://bit.ly/1NXzEp2
- Moviemax TURK HD
-http://bit.ly/1NXzBK2
- Moviemax Premier
-http://bit.ly/2473Cnm
- Movie smart Platim 2 HD
-http://bit.ly/1TyVDHg
- Movie smart Gold HD
-http://bit.ly/1NXzEp3
- LOCA3
-http://bit.ly/1TyVC6h
- LOCA2
-http://bit.ly/1NXzEp1
- LOCA1
-http://bit.ly/1SvQLUo
- LIG TV 3
-http://bit.ly/1TyVGCS
 <item>
-<title>LIG TV 2</title>
-<f4m>http://bit.ly/1TyVGCR</f4m>
+<title>TRT HD</title>
+<f4m>http://bit.ly/1TyVvHH</f4m>
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>LIG TV 1</title>
-<f4m>http://bit.ly/1NXzK02</f4m>
+<title>KANALTURK</title>
+<f4m>http://bit.ly/1TyVu6J</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>YABAN</title>
+<f4m>http://bit.ly/1TyVu6I</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TRT_1 HD</title>
+<f4m>http://bit.ly/1TyVvHJ</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TRT Turk</title>
+<f4m>http://bit.ly/2473swl</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TRT HABER HD</title>
+<f4m>http://bit.ly/1NDDysg</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TRT Cocuk</title>
+<f4m>http://bit.ly/1TyVzqV</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Tivibu Spor 2 HD</title>
+<f4m>http://bit.ly/1TyVxzw</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>STAR TV</title>
+<f4m>http://bit.ly/1TyVzqX</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Sinema TV 1 HD</title>
+<f4m>http://bit.ly/1TyVzqU</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Show TV HD</title>
+<f4m>http://bit.ly/2473Afm</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TURKEY-TV-8</title>
+<f4m>http://bit.ly/1TyVvHL</f4m>
 <thumbnail></thumbnail>
 </item>
 <item>
@@ -94,6 +66,156 @@ http://bit.ly/1TyVGCS
 <item>
 <title>Fox TV</title>
 <f4m>http://bit.ly/1T6XIao</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>ATV HD</title>
+<f4m>http://bit.ly/1YVuO1k</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TV EM</title>
+<f4m>http://bit.ly/1NXzs9u</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>TRT_cocuk</title>
+<f4m>http://bit.ly/1NDDrx5</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Moviemax_Stars</title>
+<f4m>http://bit.ly/1TyVu6H</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Moviemax_Premiere</title>
+<f4m>http://bit.ly/1NXzs9t</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Moviemax_Festival</title>
+<f4m>http://bit.ly/1TyVvHI</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Moviemax_Family</title>
+<f4m>http://bit.ly/1TyVvHM</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SALON3</title>
+<f4m>http://bit.ly/1TyVxzz</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SALON2</title>
+<f4m>http://bit.ly/1TyVxzx</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>SALON1</title>
+<f4m>http://bit.ly/1TyVzqW</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Salon 9</title>
+<f4m>http://bit.ly/1TyVxzA</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Salon 8</title>
+<f4m>http://bit.ly/1TyVxzy</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Salon 7</title>
+<f4m>http://bit.ly/1SvQAbK</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Salon 6</title>
+<f4m>http://bit.ly/2473Afn</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Salon 5</title>
+<f4m>http://bit.ly/2473ELS</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>POWER TURK HD</title>
+<f4m>http://bit.ly/1TyVC6g</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>NTV SmartSpor</title>
+<f4m>http://bit.ly/1TyVC6j</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MOViESMART_PREMIUM</title>
+<f4m>http://bit.ly/1TyVDHf</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MOViEMAX_FESTIFAL_HD</title>
+<f4m>http://bit.ly/2473ELY</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>MOVIEMAXOSCAR</title>
+<f4m>http://bit.ly/1NXzEp2</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Moviemax TURK HD</title>
+<f4m>http://bit.ly/1NXzBK2</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Moviemax Premier</title>
+<f4m>http://bit.ly/2473Cnm</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Movie smart Platim 2 HD</title>
+<f4m>http://bit.ly/1TyVDHg</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>Movie smart Gold HD</title>
+<f4m>http://bit.ly/1NXzEp3</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>LOCA3</title>
+<f4m>http://bit.ly/1TyVC6h</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>LOCA2</title>
+<f4m>http://bit.ly/1NXzEp1</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>LOCA1</title>
+<f4m>http://bit.ly/1SvQLUo</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>LIG TV 1</title>
+<f4m>http://bit.ly/1NXzK02</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>LIG TV 2</title>
+<f4m>http://bit.ly/1TyVGCR</f4m>
+<thumbnail></thumbnail>
+</item>
+<item>
+<title>LIG TV 3</title>
+<f4m>http://bit.ly/1TyVGCS</f4m>
 <thumbnail></thumbnail>
 </item>
 <item>
@@ -177,11 +299,6 @@ http://bit.ly/1TyVGCS
 <thumbnail></thumbnail>
 </item>
 <item>
-<title>ATV HD</title>
-<f4m>http://bit.ly/1YVuO1k</f4m>
-<thumbnail></thumbnail>
-</item>
-<item>
 <title>SINEMA 1</title>
 <f4m>http://bit.ly/1YVuO1q</f4m>
 <thumbnail></thumbnail>
@@ -191,7 +308,3 @@ http://bit.ly/1TyVGCS
 <f4m>http://bit.ly/1T6XFLM</f4m>
 <thumbnail></thumbnail>
 </item>
-
-
-
-
