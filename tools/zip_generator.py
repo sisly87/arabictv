@@ -45,7 +45,7 @@ def main():
     if(addon_dir.startswith('.')):
       # skip hidden dirs
       continue
-    if(addon_dir == "repositor.arabictv"):
+    if(addon_dir == "repositor.blabla"):
       # skip download directory
       continue
     create_zip_file(addon_dir)
