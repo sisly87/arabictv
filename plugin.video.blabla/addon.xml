@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.arabic"
-       name="Arabic TV"
-       version="1.0.7"
-       provider-name="Arabic TV">
+<addon id="plugin.video.blabla"
+       name="blabla"
+       version="1.0.1"
+       provider-name="blabla">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.t0mm0.common" version="2.1.1"/>
@@ -24,8 +24,8 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Arabic Streams voor XBMC / KODI!</summary>
-    <description lang="en">Addon With Arabic Livestreams and movies from all over the world</description>
+    <summary lang="en">XBMC / KODI!</summary>
+    <description lang="en">Addon</description>
     <platform>all</platform>
   </extension>
 </addon>
